@@ -14,7 +14,11 @@
 * 了解 HTML/CSS/JS，能根据文档和示例 demo 快速搭建出管理后台前端界面
 
 ## 工作经历
-### 爱范儿 (2019年3月 ~ 至今)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 后端工程师
+### Shopee (2019年8月 ~ 至今)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 高级后端工程师
+
+* 负责 Order 系统相关开发
+
+### 爱范儿 (2019年3月 ~ 2019 年6月)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 后端工程师
 
 * 知晓云相关任务开发
 
